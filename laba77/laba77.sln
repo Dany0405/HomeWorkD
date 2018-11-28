@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba77", "laba77\laba77.csproj", "{45B9D5A8-2D02-4A0D-8F44-7AB1A42DA728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{FC91F6D8-7071-495F-B72C-CEAC11211492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B9D5A8-2D02-4A0D-8F44-7AB1A42DA728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B9D5A8-2D02-4A0D-8F44-7AB1A42DA728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B9D5A8-2D02-4A0D-8F44-7AB1A42DA728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B9D5A8-2D02-4A0D-8F44-7AB1A42DA728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC91F6D8-7071-495F-B72C-CEAC11211492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC91F6D8-7071-495F-B72C-CEAC11211492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC91F6D8-7071-495F-B72C-CEAC11211492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC91F6D8-7071-495F-B72C-CEAC11211492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba77\laba77\bin\Debug\laba77.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba77\laba77\bin\Debug\laba77.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba77\laba77\bin\Debug\laba77.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba77\laba77\obj\Debug\laba77.csprojResolveAssemblyReference.cache
+c:\users\lena\documents\visual studio 2012\Projects\laba77\laba77\obj\Debug\laba77.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba77\laba77\obj\Debug\laba77.pdb
+C:\Users\Дарья\Desktop\Универ\Net\laba77\laba77\bin\Debug\laba77.exe.config
+C:\Users\Дарья\Desktop\Универ\Net\laba77\laba77\obj\Debug\laba77.exe
+C:\Users\Дарья\Desktop\Универ\Net\laba77\laba77\obj\Debug\laba77.pdb

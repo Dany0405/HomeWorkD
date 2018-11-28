@@ -1,0 +1,12 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1papka\laba2_1papka\bin\Debug\laba2_1papka.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1papka\laba2_1papka\bin\Debug\laba2_1papka.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1papka\laba2_1papka\bin\Debug\laba2_1papka.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1papka\laba2_1papka\obj\Debug\laba2_1papka.csprojResolveAssemblyReference.cache
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1papka\laba2_1papka\obj\Debug\laba2_1papka.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1papka\laba2_1papka\obj\Debug\laba2_1papka.pdb
+C:\Users\Дарья\Desktop\Универ\Net\laba2_1papka\laba2_1papka\bin\Debug\laba2_1papka.exe.config
+C:\Users\Дарья\Desktop\Универ\Net\laba2_1papka\laba2_1papka\obj\Debug\laba2_1papka.exe
+C:\Users\Дарья\Desktop\Универ\Net\laba2_1papka\laba2_1papka\obj\Debug\laba2_1papka.pdb
+C:\Users\Дарья\Desktop\Универ\Net\laba2_1papka\laba2_1papka\bin\Debug\laba2_1papka.exe
+C:\Users\Дарья\Desktop\Универ\Net\laba2_1papka\laba2_1papka\bin\Debug\laba2_1papka.pdb
+C:\Users\Дарья\Desktop\Универ\Net\laba2_1papka\laba2_1papka\obj\Debug\laba2_1papka.csprojResolveAssemblyReference.cache
